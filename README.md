@@ -1,7 +1,7 @@
 # Data Engineering Zoomcamp 2025
 ## Module 2: Workflow Orchestration
 
-To get started, first create a dev.env file containing the database ation using the following template:
+To get started, first create a .env file containing the database ation using the following template:
 
 ```
 DB_USER=<mydbuser>
